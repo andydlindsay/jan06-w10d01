@@ -1,0 +1,3 @@
+[submodule "authors"]
+	path = authors
+	url = git@github.com:andydlindsay/authors.git
